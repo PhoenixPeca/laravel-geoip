@@ -1,5 +1,5 @@
 {
-  "name": "torann/geoip",
+  "name": "phoenixpeca/geoip",
   "description": "Support for multiple GeoIP services.",
   "keywords": [
     "laravel",
@@ -14,8 +14,8 @@
   "license": "BSD-2-Clause",
   "authors": [
     {
-      "name": "Daniel Stainback",
-      "email": "torann@gmail.com"
+      "name": "Phoenix Eve Aspacio",
+      "email": "aspaciop@outlook.com"
     }
   ],
   "require": {
